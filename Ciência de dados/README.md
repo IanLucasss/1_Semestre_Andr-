@@ -1,5 +1,5 @@
 
-# 📊 Projeto de Análise Estatística com Python
+# 📊 Projeto de Análise de Dados (Ciência de Dados)
 
 Este projeto apresenta uma análise de dados educacionais simulados, com foco na aplicação de conceitos estatísticos fundamentais utilizando a linguagem Python.
 
