@@ -57,7 +57,7 @@ Foi aplicada **amostragem estratificada por gênero**, selecionando 10 alunos co
 
 - **Grupo:** Ian Lucas, Juan Correia, Carol Almeida, Matheus Pulcinelli
 - **Disciplina:** Ciência de Dados
-- **Docente:** Prof. André Cassulino
+- **Docente:** Prof. André Souza
 - **Data de Entrega:** 20/06/2024
 
 ---
