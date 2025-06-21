@@ -103,4 +103,4 @@ A normalização foi aplicada para minimizar redundâncias, garantir integridade
 
 ## Observações Finais
 
-Este projeto serviu como base prática para a aplicação dos conceitos aprendidos na disciplina de Banco de Dados Relacional.
+Este projeto serviu como base prática para a aplicação dos conceitos aprendidos na disciplina de Banco de Dados.
