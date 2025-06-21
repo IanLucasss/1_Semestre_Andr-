@@ -103,4 +103,4 @@ A normalização foi aplicada para minimizar redundâncias, garantir integridade
 
 ## Observações Finais
 
-Este projeto serviu como base prática para a aplicação dos conceitos aprendidos na disciplina de Banco de Dados Relacional. Futuras melhorias podem incluir a implementação de triggers, procedures e interface gráfica.
+Este projeto serviu como base prática para a aplicação dos conceitos aprendidos na disciplina de Banco de Dados Relacional.
